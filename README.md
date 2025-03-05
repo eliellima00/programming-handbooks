@@ -2,11 +2,11 @@
 
 This repository contains a collection of handbooks covering various programming languages, frameworks, and libraries that I have mastered or am currently studying. Each handbook provides essential concepts, key functions, and best practices for efficient development.
 
-## 📌 Topics Covered
+## 📌 Topics Covered Until Now
 
-- **Languages**: Python, JavaScript, TypeScript, etc.
-- **Frameworks**: React, Next.js, NestJS, etc.
-- **Libraries**: Zustand, React Query, Tailwind CSS, etc.
+- **Languages**: Python
+- **Frameworks**: 
+- **Libraries**: 
 
 ## 🚀 Purpose
 
