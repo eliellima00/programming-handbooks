@@ -70,9 +70,13 @@ greeting = 'Hello, World!'
 - `len(s)`: Retorna o tamanho da string.
 - `s.upper()`: Converte para maiúsculas.
 - `s.lower()`: Converte para minúsculas.
-- `s.strip()`: Remove espaços extras.
+- `s.title()`: Converte todas palavras com inicial maiúscula.
+- `s.strip()`: Remove espaços extras, no inicio e no fim.
+- `s.rstrip()`: Remove espaços extras, no inicio.
+- `s.lstrip()`: Remove espaços extras, no fim.
 - `s.replace(old, new)`: Substitui partes da string.
 - `s.split(sep)`: Divide uma string em uma lista.
+- `s.join()`: Junta o array de strings, posso passar o separador.
 - `s.count(value)`: Conta quantas vezes o valor aparece na string.
 
 ### 1.5 Bytes (`bytes`)
@@ -137,4 +141,3 @@ not x    # Não lógico
 ```
 
 Esse handbook cobre os tipos primitivos mais importantes e as principais funções para manipulá-los no Python. É essencial compreender esses conceitos para desenvolver aplicações eficientes!
-
